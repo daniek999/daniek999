@@ -38,8 +38,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F0F6FC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=F0F6FC)&nbsp;
 
-<h2 style="border-bottom: none; text-decoration: none;">Find Me</h2>
-
-<a style="text-align: center;" href="https://danielchiclla.vercel.app/">Portfolio</a>
+## Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniek999&theme=github-dark&hide_border=false" style="width: 100%; height: 250px;"  alt="graph"/> 
