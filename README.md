@@ -42,4 +42,4 @@
 
 <a style="text-align: center;" href="https://danielchiclla.vercel.app/">Portfolio</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniek999&theme=github-dark&hide_border=false" height=250 alt="graph"/> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniek999&theme=github-dark&hide_border=false" style="width: 100%; height: 250px;"  alt="graph"/> 
