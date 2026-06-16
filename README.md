@@ -1,98 +1,43 @@
-<h1 style="border-bottom: none; text-decoration: none;">Hello :D</h1>
+# Hello :D
 
-<h2 style="border-bottom: none; text-decoration: none;">Skills</h2>
+## Skills:
 
-<!-- Sección: Lenguajes -->
-<h3 style="border-bottom: none; text-decoration: none;">Languages</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20" /> Java
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20" /> Python
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="20" height="20" /> TypeScript
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20" /> JavaScript
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20" /> HTML5
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20" height="20" /> CSS3
-  </span>
-</div>
+### Languages
 
-<!-- Sección: Frameworks & Libraries -->
-<h3 style="border-bottom: none; text-decoration: none;">Frameworks & Libraries</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20" height="20" /> Spring
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="20" height="20" /> Angular
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20" /> React
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20" height="20" /> Node.js
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="20" height="20" style="filter: invert(1);" /> Express
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="20" height="20" /> Bootstrap
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="20" height="20" style="filter: invert(1);" /> Prisma
-  </span>
-</div>
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=F0F6FC)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F0F6FC)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=F0F6FC)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F0F6FC)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=F0F6FC)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=F0F6FC)&nbsp;
 
-<!-- Sección: Bases de Datos -->
-<h3 style="border-bottom: none; text-decoration: none;">Databases</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="20" height="20" /> MySQL
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="20" height="20" /> SQL Server (SSMS)
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="20" height="20" /> MongoDB
-  </span>
-</div>
+### Frameworks & Libraries
 
-<!-- Sección: Herramientas y Tecnologías -->
-<h3 style="border-bottom: none; text-decoration: none;">Tools & Technologies</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20" style="filter: invert(1);" /> GitHub
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="20" height="20" /> Postman
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="20" height="20" style="filter: invert(1);" /> Vercel
-  </span>
-</div>
+![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=F0F6FC)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=F0F6FC)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=F0F6FC)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=F0F6FC)&nbsp;
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=F0F6FC)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=F0F6FC)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=F0F6FC)&nbsp;
 
-<!-- Sección: IDEs -->
-<h3 style="border-bottom: none; text-decoration: none;">IDEs</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="20" height="20" /> Jupyter
-  </span>
-  <span style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 6px 12px; display: inline-flex; align-items: center; gap: 8px; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" height="20" /> Visual Studio Code
-  </span>
-</div>
+### Databases
 
-<br />
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=F0F6FC)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server%20(SSMS)-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=F0F6FC)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=F0F6FC)&nbsp;
+
+### Tools & Technologies
+
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=F0F6FC)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=F0F6FC)&nbsp;
+
+### IDEs
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F0F6FC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=F0F6FC)&nbsp;
 
 <h2 style="border-bottom: none; text-decoration: none;">Find Me</h2>
-<div style="text-align: left;">
-  <a href="https://danielchiclla.vercel.app/" style="background-color: #21262d; border: 1px solid #30363d; border-radius: 6px; padding: 8px 16px; color: #58a6ff; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; display: inline-block;">🔗 Visitar Mi Portfolio</a>
-</div>
+
+<a style="text-align: center;" href="https://danielchiclla.vercel.app/">Portfolio</a>
